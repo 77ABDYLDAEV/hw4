@@ -10,7 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.viewbinding.ViewBinding;
-//njihbijnk
 
 abstract public class BaseFragment <VB extends ViewBinding> extends Fragment{
     protected VB binding;
